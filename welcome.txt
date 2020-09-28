@@ -1,1 +1,2 @@
 Hello! this is a python class for CNU students!
+Effective Fall 2020
